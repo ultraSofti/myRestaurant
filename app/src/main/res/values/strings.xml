@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">RRestaurant</string>
     <string name="set_your_location">Set your location to start exploring restaurant near you</string>
+    <string name="login">Login</string>
+    <string name="signup_prompt">Sign up an account</string>
+    <string name="quick_search">Quick search</string>
 </resources>
